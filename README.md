@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋  I am Xuyang Han.
 
-<!--
-**xuyangHan/xuyangHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! Here's a little about me:  
 
-Here are some ideas to get you started:
+- 🎓 **Master's Degree in Geomatics**  
+- 💻 **6+ years of development experience**  
+- 🛠️ Skilled in **C#, Python, Java, SQL**  
+- 🌐 Check out my [personal website](https://xuyanghan.github.io/)
+- ✍️ Explore my [tech blog series](https://juejin.cn/user/4352302075874393), also available in this [repo](https://github.com/xuyangHan/RoadToBackendMastery) 
+- 🎮 **Gamer at heart**: I enjoy playing strategy and RPG games in my free time!  
+- 🌍 **Traveler**: I love exploring new places and learning about different cultures.  
+- 📚 **Lifelong learner**: Always excited to learn new technologies and expand my skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! Feel free to explore my repositories and connect with me. 🚀  
